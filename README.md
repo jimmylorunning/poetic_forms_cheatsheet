@@ -4,6 +4,10 @@ Need to write a poem in form? Don't remember what a dactyl is? Download this che
 
 ![Poetic Forms Cheatsheet](https://raw.githubusercontent.com/jimmylorunning/poetic_forms_cheatsheet/master/poetic_forms.fw.png)
 
+## Foldable!
+
+The cheatsheet is designed to be foldable in half for easy carrying. Print it out onto a standard 8.5" x 11" piece of paper (I usually print out the PDF). Then simply fold down horizontally. The content should neatly fall on both sides.
+
 ## How to Contribute
 
 Like what you see and want to contribute? Know of a poetic form that's not included here? Let me know about it!
